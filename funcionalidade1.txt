@@ -1,1 +1,3 @@
 - Essa é uma funcionalidade do projeto
+
+- Corrigindo a funcionalidade
